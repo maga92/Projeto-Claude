@@ -1,3 +1,5 @@
+**Observação Principal: Este projeto foi feito com suporte da Claude AI, como estudo e entendimento de certos conteúdos em Javascript. (Não é um projeto 100% feito por mim)**
+
 # Major League Live 🏆
 
 Sistema offline-first de gestão esportiva amadora.
