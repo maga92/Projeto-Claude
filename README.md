@@ -1,4 +1,4 @@
-**Observação Principal: Este projeto foi feito com suporte da Claude AI, como estudo e entendimento de certos conteúdos em Javascript. (Não é um projeto 100% feito por mim)**
+**Observação Principal: Este projeto foi feito com suporte da Claude AI, como material de estudo e para entendimento de certos conteúdos em Javascript. (Não é um projeto 100% feito por mim)**
 
 # Major League Live 🏆
 
