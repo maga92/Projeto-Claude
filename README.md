@@ -4,25 +4,7 @@
 
 Sistema offline-first de gestão esportiva amadora.
 
-## Como usar
-
-1. Abra `index.html` em qualquer navegador moderno
-2. **Não é necessário servidor** — funciona 100% localmente
-
-> ⚠️ **Atenção:** Use `File > Open` no navegador **ou** sirva via HTTP local.
-> Para evitar restrições de CORS com ES Modules, use um servidor local simples:
->
-> ```bash
-> # Python 3
-> python -m http.server 8080
-> # Node.js (npx)
-> npx serve .
-> # VS Code: Live Server extension
-> ```
->
-> Depois acesse: `http://localhost:8080`
-
----
+## Como usar: Abra `index.html` em qualquer navegador moderno
 
 ## Funcionalidades
 
